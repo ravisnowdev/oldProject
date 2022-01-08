@@ -1,0 +1,7 @@
+devops1
+git
+git CLI
+GitHub
+linux
+linux command
+shellscripting
